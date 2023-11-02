@@ -1,4 +1,4 @@
 # test1
 tprg2131resistor.py
-#rccalcs
+# rccalcs
 resistorcapacitor.py
