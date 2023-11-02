@@ -1,4 +1,4 @@
 # test1
-tprg2131resistor.py
+Amandeep-tprg2131resistor.py
 # rccalcs
-resistorcapacitor.py
+Amandeep-resistorcapacitor.py
